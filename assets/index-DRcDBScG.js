@@ -121,4 +121,4 @@ Please change the parent <Route path="${w}"> to <Route path="${w==="/"?"*":`${w}
                 md:px-5 md:w-auto\r
                 w-1/2 py-4\r
               `,children:"Неакуальные"})]}),V.jsx("div",{className:"md:pt-4 pt-5",children:h.map(y=>V.jsx(Q1,{number:y.num,date:y.date,address:y.address,summ:y.summ},y.num))})]})})]})]})},om=()=>V.jsx("div",{children:"settings page"});function Z1(){return V.jsx(Vp,{children:V.jsxs(_p,{children:[V.jsx(ja,{path:"/",element:V.jsx(gr,{})}),V.jsx(ja,{path:"/agreements",element:V.jsx(gr,{})}),V.jsx(ja,{path:"/settings",element:V.jsx(om,{})}),V.jsx(ja,{path:"/user",element:V.jsx(gr,{})}),V.jsx(ja,{path:"/logout",element:V.jsx(om,{})})]})})}R0.createRoot(document.getElementById("root")).render(V.jsx(D.StrictMode,{children:V.jsx(L0,{store:Ng,children:V.jsx(Z1,{})})}));
-//# sourceMappingURL=index-XKVTVxJ7.js.map
+//# sourceMappingURL=index-DRcDBScG.js.map
